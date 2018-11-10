@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Drivers/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="Drivers/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Drivers/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Drivers/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="Drivers/mail.jar"/>
+	<classpathentry kind="lib" path="Drivers/activation.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/java-flac-encoder-0.3.8.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/java-google-speech-api-V2.1.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/json-20150729.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="Drivers/libraries/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

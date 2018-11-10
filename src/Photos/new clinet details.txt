@@ -1,0 +1,9 @@
+party No:-default
+partyname:-varchar
+adress:-varcar
+city
+state
+phn no
+mobile no
+emailid
+tinno
